@@ -1,0 +1,11 @@
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\bin\Debug\netcoreapp2.1\Lab8-GetToKnowYourClassmates.deps.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\bin\Debug\netcoreapp2.1\Lab8-GetToKnowYourClassmates.runtimeconfig.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\bin\Debug\netcoreapp2.1\Lab8-GetToKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\bin\Debug\netcoreapp2.1\Lab8-GetToKnowYourClassmates.dll
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\bin\Debug\netcoreapp2.1\Lab8-GetToKnowYourClassmates.pdb
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\obj\Debug\netcoreapp2.1\Lab8-GetToKnowYourClassmates.csprojAssemblyReference.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\obj\Debug\netcoreapp2.1\Lab8-GetToKnowYourClassmates.csproj.CoreCompileInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\obj\Debug\netcoreapp2.1\Lab8-GetToKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\obj\Debug\netcoreapp2.1\Lab8-GetToKnowYourClassmates.AssemblyInfo.cs
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\obj\Debug\netcoreapp2.1\Lab8-GetToKnowYourClassmates.dll
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\obj\Debug\netcoreapp2.1\Lab8-GetToKnowYourClassmates.pdb
